@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vehiculos.web</groupId>
-	<artifactId>order-history-common-1</artifactId>
+	<artifactId>vehiculos-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>order-history-common-1</name>
+	<name>vehiculos-api</name>
 	<description>Order History</description>
 
 	<properties>
